@@ -1,4 +1,4 @@
-package com.bogdan;
+package com.company;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 
