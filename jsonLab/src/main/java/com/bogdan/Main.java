@@ -1,4 +1,4 @@
-package com.bogdan;
+package com.comapny;
 
 import com.fasterxml.jackson.databind.ObjectMapper;
 import jdk.jshell.execution.Util;
